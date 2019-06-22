@@ -1,0 +1,3 @@
+{
+    "AllowedCors" : ["localhost:3000"]
+}
